@@ -1,4 +1,4 @@
-# projeto-rocketseat-Timer
+# Projeto Timer
 
 ### 💻 It is an application to use the Pomodoro technique, built while watching video classes on Rocketseat and using localstorage.
 
